@@ -1,1 +1,2 @@
 # Customer-churn-analysis
+A supervised machine learning project that predicts whether a bank customer will churn (leave), using Logistic Regression and XGBoost — with a focus on handling class imbalance.
